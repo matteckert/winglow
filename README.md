@@ -1,4 +1,4 @@
 winglow
 =======
 
-cross-platform native OpenGL context creation
+native OpenGL context creation
